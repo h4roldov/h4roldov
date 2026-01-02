@@ -2,7 +2,9 @@
 I’m Haroldo Vivallo.
 
 ### Background
-I’m a Software Engineer based in Chile, with an MSc in Artificial Intelligence. I’ve spent several years building and maintaining production systems for both public and private sectors. That experience shaped how I approach software: reliability over novelty, clarity over cleverness, and systems designed to survive real-world constraints.
+I’m a Software Engineer based in Chile, with an MSc in Artificial Intelligence. I’ve spent several years building and maintaining production systems for both public and private sectors. I’m currently CTO at DentRead, where we’re developing an AI-powered dental radiograph analysis platform with support from public funding programs in Chile.
+
+That experience shaped how I approach software: reliability over novelty, clarity over cleverness, and systems designed to survive real-world constraints.
 
 ---
 
@@ -17,24 +19,32 @@ I’m a Software Engineer based in Chile, with an MSc in Artificial Intelligence
 
 ### Current Projects
 
-#### DentRead  
-AI-powered dental radiograph analysis platform focused on assisting diagnosis through computer vision and structured reports.  
+<table align="center" style="border-collapse: collapse;">
+  <tr>
+    <td align="center" width="33%" style="border: 1px solid #ddd; padding: 16px;">
+      <h4>DentRead</h4>
+      <p>AI-powered dental radiograph analysis</p>
+      <a href="https://dentread.app">
+        <img src="https://img.shields.io/badge/Visit-dentread.app-0A2540?style=for-the-badge" />
+      </a>
+    </td>
+    <td align="center" width="33%" style="border: 1px solid #ddd; padding: 16px;">
+      <h4>Keyvo</h4>
+      <p>Secure password and secret sharing</p>
+      <a href="https://keyvo.link">
+        <img src="https://img.shields.io/badge/Visit-keyvo.link-111111?style=for-the-badge" />
+      </a>
+    </td>
+    <td align="center" width="33%" style="border: 1px solid #ddd; padding: 16px;">
+      <h4>Noledg</h4>
+      <p>Minimalist notes and knowledge system</p>
+      <a href="https://noledg.com">
+        <img src="https://img.shields.io/badge/Visit-noledg.com-5A67D8?style=for-the-badge" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-[![DentRead](https://img.shields.io/badge/Visit-DentRead.app-0A2540?style=for-the-badge)](https://dentread.app)
-
----
-
-#### Keyvo  
-Secure password and secret sharing designed for one-time access, low friction, and privacy-first usage.  
-
-[![Keyvo](https://img.shields.io/badge/Visit-Keyvo.link-111111?style=for-the-badge)](https://keyvo.link)
-
----
-
-#### Noledg  
-Minimalist note-taking and personal knowledge system built to stay simple while scaling conceptually over time.  
-
-[![Noledg](https://img.shields.io/badge/Visit-Noledg.com-5A67D8?style=for-the-badge)](https://noledg.com)
 
 ---
 
