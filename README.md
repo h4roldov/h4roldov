@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**h4roldov/h4roldov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Haroldo Vivallo.
 
-Here are some ideas to get you started:
+Software Engineer based in Chile, with an MSc in Artificial Intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Before focusing deeply on AI-native development, I spent several years building production systems for both the **public and private sectors**, mainly using **Python and JavaScript**. That work shaped how I think about software: reliability, clarity, and systems that survive real constraints.
+
+Today, my work has naturally evolved toward **AI-first products**, where LLMs are not an add-on but a core building block. Recently, I’ve been using **Claude Code** extensively as both a development and reasoning environment, combining engineering, product thinking, and applied AI.
+
+Current projects:
+- DentRead — AI-powered dental radiograph analysis platform  
+  https://dentread.app
+- Keyvo — secure password and secret sharing  
+  https://keyvo.link
+- Noledg — minimalist note-taking and knowledge app  
+  https://noledg.com
+
+I’m interested in AI-native tooling, LLM-first workflows, knowledge systems, and building simple products that scale conceptually over time.
