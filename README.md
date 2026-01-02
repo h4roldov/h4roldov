@@ -64,10 +64,3 @@ Previously, limited time and gaps in specific technologies often left personal p
 ### AI Assistance
 AI was used to assist with structure and wording.  
 Final content and intent are my own.
-
----
-
-### AI Assistance
-**AI was used to assist** with structure and wording.  
-**Final content and intent are my own.**
-
