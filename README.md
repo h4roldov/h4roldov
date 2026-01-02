@@ -1,8 +1,8 @@
 ## Hi there 👋  
-I’m Haroldo Vivallo.
+I’m **Haroldo Vivallo**.
 
 ### Background
-I’m a Software Engineer based in Chile, with an MSc in Artificial Intelligence. I’ve spent several years building and maintaining production systems for both public and private sectors. That experience shaped how I approach software: reliability over novelty, clarity over cleverness, and systems designed to survive real-world constraints.
+I’m a **Software Engineer based in Chile**, with an **MSc in Artificial Intelligence**. I’ve spent several years building and maintaining **production systems** for both **public and private sectors**. That experience shaped how I approach software: **reliability over novelty**, **clarity over cleverness**, and systems designed to **survive real-world constraints**.
 
 ---
 
@@ -16,38 +16,50 @@ I’m a Software Engineer based in Chile, with an MSc in Artificial Intelligence
 ---
 
 ### Current Focus
-My work has gradually shifted toward **AI-native development**, where LLMs are part of the execution layer rather than an add-on.
+My work has gradually shifted toward **AI-native development**, where **LLMs are part of the execution layer**, not an add-on.
 
 I’m currently exploring:
-- Context engineering as a design discipline  
-- Product discovery with AI support  
-- Better ways of understanding user intent and translating it into software requirements  
-- How requirements can evolve over time with AI in the loop  
+- **Context engineering** as a design discipline  
+- **Product discovery** with AI support  
+- Better ways of **understanding user intent** and translating it into **software requirements**  
+- How requirements can **evolve over time with AI in the loop**  
 
-Alongside building, I’m also studying topics that complement this work, including:
-- Anthropic courses on AI Fluency and Claude Code  
-- ISO IEC 42001 and related AI governance topics  
+Alongside building, I’m also studying topics that support this work, including:
+- **Anthropic courses** on **AI Fluency** and **Claude Code**  
+- **ISO IEC 42001** and related **AI governance** topics  
 
-I’m still very much in an exploratory phase, testing ideas and approaches rather than claiming definitive answers.
+I’m still very much in an **exploratory phase**, testing ideas and approaches rather than claiming definitive answers.
 
 ---
 
-Previously, limited time and gaps in specific technologies often left personal projects unfinished. Working with Claude Code as a development and reasoning environment has made it easier to move forward, revisit ideas, and actually ship things, without losing technical judgment along the way.
+Previously, **limited time** and **gaps in specific technologies** often left personal projects unfinished. Working with **Claude Code** as a **development and reasoning environment** has made it easier to move forward, revisit ideas, and **actually ship things**, without losing **technical judgment** along the way.
 
 ---
 
 ### Current Projects
-- DentRead  
-  https://dentread.app  
 
-- Keyvo  
-  https://keyvo.link  
+#### **DentRead**  
+**AI-powered dental radiograph analysis platform**, focused on assisting diagnosis through **computer vision** and **structured reports**.
 
-- Noledg  
-  https://noledg.com  
+[![DentRead](https://img.shields.io/badge/Visit-DentRead.app-0A2540?style=for-the-badge)](https://dentread.app)
+
+---
+
+#### **Keyvo**  
+**Secure password and secret sharing**, designed for **one-time access**, **low friction**, and **privacy-first** usage.
+
+[![Keyvo](https://img.shields.io/badge/Visit-Keyvo.link-111111?style=for-the-badge)](https://keyvo.link)
+
+---
+
+#### **Noledg**  
+**Minimalist note-taking and personal knowledge system**, built to **stay simple** while **scaling conceptually over time**.
+
+[![Noledg](https://img.shields.io/badge/Visit-Noledg.com-5A67D8?style=for-the-badge)](https://noledg.com)
 
 ---
 
 ### AI Assistance
-AI was used to assist with structure and wording.  
-Final content and intent are my own.
+**AI was used to assist** with structure and wording.  
+**Final content and intent are my own.**
+
